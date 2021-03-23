@@ -411,14 +411,14 @@ main h2 {
 	padding: 40px 0;
 }
 .fixed-bg.bg-1 {
- background-image:url("../img/slider2.jpg");
+ background-image:url("https://slovosvarschika.ru/static/media/main.f6ff2872.jpg");
   min-height: 620px;
 }
 .fixed-bg.bg-1::before{
   opacity: .6;
 }
 .bg-1 .sub-bg{
-	background-image: url("https://slovosvarschika.ru/static/media/main.f6ff2872.jpg");
+
 	background-repeat: no-repeat;
 	background-position: -10% 115%;
 	background-size: 310px;
