@@ -1084,3 +1084,10 @@ footer p:first-child{margin-bottom: 10px;}
 .feature-list li {
     color: white;
 }
+.form-title .sub-title {
+    font-size: 27px;
+    text-shadow: 1px 1px 1px white;
+    font-weight: 900;
+    max-width: 50%;
+    text-align: center;
+}
