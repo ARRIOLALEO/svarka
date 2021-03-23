@@ -1081,3 +1081,6 @@ footer p:first-child{margin-bottom: 10px;}
 .counter {
 	text-align: center;
 }
+.feature-list li {
+    color: white;
+}
