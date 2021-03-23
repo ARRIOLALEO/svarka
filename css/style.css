@@ -424,7 +424,7 @@ main h2 {
 	background-size: 310px;
 }
 .fixed-bg.bg-2 {
-  background-image:url("../img/slider2.jpg");
+  background-image:url("https://slovosvarschika.ru/static/media/main.f6ff2872.jpg");
 }
 .fixed-bg.bg-2::before{
 	/*background: -webkit-radial-gradient(19% 60%, circle, #888989, #fff);
